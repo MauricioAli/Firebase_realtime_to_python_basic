@@ -26,10 +26,11 @@ Este es un scrip basico para poder conectarnos a firebase Realtime de manera muy
 
 # Por el momento desactivamos las opciones de analitycs
 
-* [firebase](https://console.firebase.google.com/?hl=es)
+
 <br>
   <img src="./images/3.png" />
 <br>
+
 # Generamos y descargamos las credenciales de proyecto 
   
 
