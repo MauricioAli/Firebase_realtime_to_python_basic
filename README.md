@@ -24,7 +24,7 @@ Este es un scrip basico para poder conectarnos a firebase Realtime de manera muy
   <img src="./images/2.png" />
 <br>
 
-# Por el momento desactivamos las opciones de analitys
+# Por el momento desactivamos las opciones de analitycs
 
 * [firebase](https://console.firebase.google.com/?hl=es)
 <br>
