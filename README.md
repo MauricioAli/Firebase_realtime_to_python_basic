@@ -10,4 +10,43 @@ Este es un scrip basico para poder conectarnos a firebase Realtime de manera muy
 * [python firebase-sdk](https://firebase.google.com/docs/admin/setup?hl=es#python)
 
 
+# Creamos el proyecto de Firebase 
+
+* [firebase](https://console.firebase.google.com/?hl=es)
+<br>
+  <img src="./images/1.png" />
+<br>
+
+# Creamos el proyecto de Firebase 
+
+* [firebase](https://console.firebase.google.com/?hl=es)
+<br>
+  <img src="./images/2.png" />
+<br>
+
+# Por el momento desactivamos las opciones de analitys
+
+* [firebase](https://console.firebase.google.com/?hl=es)
+<br>
+  <img src="./images/3.png" />
+<br>
+# Generamos y descargamos las credenciales de proyecto 
+  
+* [firebase](https://console.firebase.google.com/?hl=es)
+<br>
+  <img src="./images/4.png" />
+<br>
+
+# Copiasmos nuestro url
+
+* [firebase](https://console.firebase.google.com/?hl=es)
+<br>
+  <img src="./images/5.png" />
+<br>
+
+# Clonamos el repositorio en nuestra carpeta e inicializamos un entorno virtual
+  
+  copiamos el json que contiene nuestras credenciaes en la ruta /path/to con el nombre de serviceAcconuntKey.json
+  y cambiamos el url por el que copiamos en el paso anterior
+
 
