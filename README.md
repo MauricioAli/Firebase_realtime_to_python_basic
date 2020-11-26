@@ -46,7 +46,14 @@ Este es un scrip basico para poder conectarnos a firebase Realtime de manera muy
 
 # Clonamos el repositorio en nuestra carpeta e inicializamos un entorno virtual
   
-  copiamos el json que contiene nuestras credenciaes en la ruta /path/to con el nombre de serviceAcconuntKey.json
-  y cambiamos el url por el que copiamos en el paso anterior
-
+  *Copiamos el json que contiene nuestras credenciaes en la ruta /path/to con el nombre de serviceAcconuntKey.json
+   cambiamos el url por el que copiamos en el paso anterior
+  *Instalamos los requerimiento necesario y ejecutamos el scrip
+  ```
+  git clone https://github.com/MauricioAli/Firebase_realtime_to_python_basic.git
+  virtualenv venv
+  source venv/bin/activate
+  pip install -r requirements.txt
+  python app.py
+  ```
 
