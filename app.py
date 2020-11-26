@@ -3,7 +3,8 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
 
-
+#link del proyecto
+#https://console.firebase.google.com/project/formulario-testing/database/formulario-testing/data?hl=es
 #credenciales que debes descargar de firebase
 cred = credentials.Certificate('./path/to/serviceAccountKey.json')
 
