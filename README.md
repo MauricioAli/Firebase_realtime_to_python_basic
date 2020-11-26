@@ -19,7 +19,7 @@ Este es un scrip basico para poder conectarnos a firebase Realtime de manera muy
 
 # Creamos el proyecto de Firebase 
 
-* [firebase](https://console.firebase.google.com/?hl=es)
+
 <br>
   <img src="./images/2.png" />
 <br>
@@ -32,14 +32,14 @@ Este es un scrip basico para poder conectarnos a firebase Realtime de manera muy
 <br>
 # Generamos y descargamos las credenciales de proyecto 
   
-* [firebase](https://console.firebase.google.com/?hl=es)
+
 <br>
   <img src="./images/4.png" />
 <br>
 
 # Copiasmos nuestro url
 
-* [firebase](https://console.firebase.google.com/?hl=es)
+
 <br>
   <img src="./images/5.png" />
 <br>
